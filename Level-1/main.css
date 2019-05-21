@@ -1,0 +1,15 @@
+#love {
+	filter: alpha(opacity=100);
+	margin:0 auto!important;
+	width:80%;
+	position:relative;
+}
+
+.hide {
+	display: none;
+}
+
+.show {
+	display: block;
+}
+	
